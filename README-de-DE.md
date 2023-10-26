@@ -1,6 +1,6 @@
-[French](README-fr-FR.md) | [German](README-de-DE.md)
+[Englisch](README.md) | [Französich](README-fr-FR.md)
 
-### Hi there 👋
+### Hallo zusammen 👋
 
 <!--
 **anthonypineau/anthonypineau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
