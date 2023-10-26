@@ -1,3 +1,5 @@
+[French](README-fr-FR.md)
+
 ### Hi there 👋
 
 <!--
